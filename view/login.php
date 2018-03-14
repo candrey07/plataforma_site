@@ -38,7 +38,7 @@ session_start();
 
                     <div class="row text-center" style="margin-top: 20px;">
                         <h4>Ainda não posui uma conta ?</h4>
-                        <a href="./view/cadastrar.php" style="color: #000"> Crie grátis</a>
+                        <a href="./view/cadastrar.php" style="color: #000"> Clique aqui e crie grátis</a>
                     </div>                    
                 </form>
             </div>
