@@ -22,7 +22,13 @@ and open the template in the editor.
             <h2 class="text-center">Selecione o serviço que quer localizar</h2><br>
             <div>
                 <!--Botão técnico e link -->
-                <a href="./main.php"><input type="submit" name="tec" value="Técnico" class="btn-primary"></a>
+                <a href="./main.php"><input type="submit" name="tec" value="Técnico em Informática" class="btn-primary"></a>
+                <a href="./main.php"><input type="submit" name="gas" value="Pontos de Gás" class="btn-primary"></a>
+                <a href="./main.php"><input type="submit" name="h2o" value="Água Mineral" class="btn-primary"></a>
+                <a href="./main.php"><input type="submit" name="pet" value="Petshop" class="btn-primary"></a>
+                <a href="./main.php"><input type="submit" name="Pedreiro" value="Pedreiro" class="btn-primary"></a>
+                <a href="./main.php"><input type="submit" name="cabelereiro" value="Cabelereiro" class="btn-primary"></a>
+                <a href="./main.php"><input type="submit" name="Manicure" value="Manicure" class="btn-primary"></a>                
             </div>
         </div>    
         <?php
