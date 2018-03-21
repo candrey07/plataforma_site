@@ -26,7 +26,7 @@ session_start();
                     unset($_SESSION['msg']);
                 }
                 ?>
-
+<!------------------------------ formulario de informaçoes ------------------------------------->
                 <form method="post" action="./controller/valida.php">
                     <!-- <label>Usuário</label> -->
                     <input type="text" name="usuario" placeholder="Digite seu usuário" class="form-control"><br>
